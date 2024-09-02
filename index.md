@@ -9,7 +9,7 @@ I’m **Harry Evans**, a certified cybersecurity professional with over 5 years 
 ### 🏆 **Certifications**
 
 - **Microsoft AZ-900 Azure Fundamentals - IN PROGRESS**
-- **CompTia CySA+ (0-003) - IN PROGRESS**
+- **CompTia CySA+ (CS0-003) - IN PROGRESS**
 - **CompTia Security+ (SY0-701)**
 - **CompTia Network+ (N10-008)**
 
