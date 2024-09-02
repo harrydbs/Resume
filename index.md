@@ -1,4 +1,4 @@
-# 🚧 This page is currently under construction. 🚧
+![EZ-IT Exeter Logo](images/construction.gif)
 
 
 | Projects |
