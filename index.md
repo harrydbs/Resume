@@ -1,4 +1,4 @@
-# 👋 Welcome to Harry Evans' GitHub Profile
+# 👋 Welcome to my GitHub Profile
 
 # 🚀 About Me
 
