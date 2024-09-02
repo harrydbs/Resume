@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/construction.gif)" />
+  <img src="images/construction.gif" alt="We are under construction!"/>
 </p>
 
 | Projects |
